@@ -12,7 +12,7 @@ To Run the Examples . . .
 -------------------------
 
 	npm install
-	node main.js ./examples/001_simple.js
+	node ./examples/001_simple.js
 
 Or run any of the other examples. We hope to have a large number of examples
 numbered by complexity, so you can start small and work your way up.
